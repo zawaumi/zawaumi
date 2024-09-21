@@ -9,6 +9,7 @@ I'm interested in a web development, software development, and AI building!
 [![Rating](https://badgen.org/img/atcoder/hasitaka/rating/algorithm?style=plastic)](https://atcoder.jp/users/hasitaka?contestType=algo)
 
 #My skills
+
 [![言語バッジ](https://img.shields.io/badge/-Ruby-CC342D.svg?logo=ruby&style=flat-square&logoColor=white)](https://www.ruby-lang.org/)
 [![Dockerバッジ](https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&style=flat-square&logoColor=white)](https://www.docker.com/)
 [![HTMLバッジ](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
