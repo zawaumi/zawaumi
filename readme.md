@@ -18,8 +18,12 @@ I'm interested in a web development, software development, and AI building!
 
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taku072002T&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 # Contributions
+
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taku072002T&theme=2077)
 <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=taku072002T&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
 
 # Trophies
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=taku072002T&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight)
