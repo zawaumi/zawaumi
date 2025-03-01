@@ -1,7 +1,9 @@
 ## Hi! There! 👋
 
 I'm a second-year university student with a passion for full-stack development.
+
 My interests lie in web development, software engineering, and building AI systems.
+
 In my free time, I enjoy playing Terraria!
 
 ![Terraria Image](images/terraria.png)
