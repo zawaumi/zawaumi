@@ -1,12 +1,8 @@
 ## Hi! There! 👋
 
-I'm a university student in my second year (B2).
-
-I'm a fullstack developer.
-
-I'm interested in a web development, software development, and AI building!
-
-I love playing Terraria!
+I'm a second-year university student with a passion for full-stack development.
+My interests lie in web development, software engineering, and building AI systems.
+In my free time, I enjoy playing Terraria!
 
 ![Terraria Image](images/terraria.png)
 
