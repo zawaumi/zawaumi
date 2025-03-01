@@ -1,6 +1,6 @@
 ## Hi! There! 👋
 
-I'm a university student.
+I'm a university student in my second year (B2).
 
 I'm a fullstack developer.
 
