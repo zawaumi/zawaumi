@@ -81,8 +81,3 @@ In my free time, I enjoy playing Terraria!
 
 ---
 
-<h2 align="center">Contact</h2>
-
-<p align="center">
-  Feel free to reach out via [LinkedIn](#) or [Email](mailto:your-email@example.com).
-</p>
