@@ -1,10 +1,14 @@
 ## Hi there! 👋
 
+<p align="center">
 I'm a second-year university student with a passion for full-stack development.  
 My interests lie in web development, software engineering, and building AI systems.  
 In my free time, I enjoy playing Terraria!
+</p>
 
-![Terraria Image](images/terraria.png)
+<p align="center">
+  <img src="images/terraria.png" alt="Terraria Image" />
+</p>
 
 <!--
 [![Rating](https://badgen.org/img/atcoder/hasitaka/rating/algorithm?style=plastic)](https://atcoder.jp/users/hasitaka?contestType=algo)
@@ -12,7 +16,7 @@ In my free time, I enjoy playing Terraria!
 
 ---
 
-<h2>Technologies I Use</h2>
+<h2 align="center">Technologies I Use</h2>
 
 <p align="center">
   <a href="https://www.ruby-lang.org/">
@@ -49,7 +53,7 @@ In my free time, I enjoy playing Terraria!
 
 ---
 
-<h2>GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taku072002T&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
@@ -58,7 +62,7 @@ In my free time, I enjoy playing Terraria!
 
 ---
 
-<h2>Contributions</h2>
+<h2 align="center">Contributions</h2>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taku072002T&theme=2077" />
@@ -66,7 +70,7 @@ In my free time, I enjoy playing Terraria!
 
 ---
 
-<h2>Trophies</h2>
+<h2 align="center">Trophies</h2>
 
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=taku072002T&theme=onedark">
