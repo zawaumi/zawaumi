@@ -59,7 +59,9 @@ In my free time, I enjoy playing Terraria!
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/Visual_Studio_Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code Badge"/>
   </a>
-  <img src="https://img.shields.io/badge/Cursor-black?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor Badge"/>
+  <a href="https://cursor.so/">
+    <img src="https://img.shields.io/badge/Cursor-black?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor Badge"/>
+  </a>
 </p>
 
 ---
@@ -91,6 +93,7 @@ In my free time, I enjoy playing Terraria!
 
 ---
 
+<h2 align="center" style="font-family: 'Poppins', sans-serif; color: #4A4A4A;">Extras</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=taku072002T&style=for-the-badge&color=brightgreen" alt="Visitor Count Badge"/>
