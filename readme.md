@@ -38,7 +38,7 @@ I'm interested in a web development, software development, and AI building!
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" alt="React Native" height="50" style="margin-right: 10px;">
 </a>
 <a href="https://vuejs.org/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vue-dot-js.svg" alt="Vue.js" height="50" style="margin-right: 10px;">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vuedotjs.svg" alt="Vue.js" height="50" style="margin-right: 10px;">
 </a>
 
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taku072002T&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
