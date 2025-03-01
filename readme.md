@@ -8,7 +8,7 @@ I'm interested in a web development, software development, and AI building!
 
 I love playing Terraria!
 
-![Terraria Image](images/terraria/png)
+![Terraria Image](images/terraria.png)
 
 [![Rating](https://badgen.org/img/atcoder/hasitaka/rating/algorithm?style=plastic)](https://atcoder.jp/users/hasitaka?contestType=algo)
 
