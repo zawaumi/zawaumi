@@ -94,5 +94,5 @@ In my free time, I enjoy playing Terraria!
 <h2 align="center">Extras</h2>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=taku072002T.visitor-badge" alt="Visitor Badge"/>
+   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 </p>
