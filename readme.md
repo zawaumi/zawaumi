@@ -53,7 +53,6 @@ In my free time, I enjoy playing Terraria!
 
 ---
 
-
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
@@ -81,3 +80,32 @@ In my free time, I enjoy playing Terraria!
 
 ---
 
+<h2 align="center">Extras</h2>
+
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=taku072002T&color=blue)
+</p>
+
+<p align="center">
+  <!-- If you have a blog or StackOverflow activity -->
+  <!-- ![Latest Blog Posts](https://github-readme-blog-posts.vercel.app/api?username=taku072002T) -->
+  <!-- ![StackOverflow Activity](https://github-readme-stackoverflow.vercel.app/api?username=taku072002T) -->
+</p>
+
+<p align="center">
+  <!-- If you use Wakatime -->
+  <!-- ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=taku072002T) -->
+</p>
+
+<p align="center">
+  <!-- If you listen to Spotify -->
+  <!-- ![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-username&cover_image=true&theme=default) -->
+</p>
+
+---
+
+<h2 align="center">Contact</h2>
+
+<p align="center">
+  Feel free to reach out via [LinkedIn](#) or [Email](mailto:your-email@example.com).
+</p>
