@@ -94,7 +94,7 @@ In my free time, I enjoy playing Terraria!
 <h2 align="center" style="font-family: 'Poppins', sans-serif; color: #4A4A4A;">Extras</h2>
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=taku072002T.visitor-badge" alt="Visitor Badge"/>
+  <img src="https://img.shields.io/badge/Visitor-Count-brightgreen?style=for-the-badge&logo=github" alt="Visitor Count Badge"/>
 </p>
 
 <!-- Add this to the head of your HTML file -->
