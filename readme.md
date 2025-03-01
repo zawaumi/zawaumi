@@ -93,6 +93,6 @@ In my free time, I enjoy playing Terraria!
 
 <h2 align="center">Extras</h2>
 
-<p align="center">
-   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-</p>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
