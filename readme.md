@@ -19,6 +19,9 @@ In my free time, I enjoy playing Terraria!
 <h2 align="center">Technologies I Use</h2>
 
 <p align="center">
+  <a href="https://www.ruby-lang.org/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/ruby.svg" alt="Ruby" height="50" style="margin: 10px; background-color: white; border-radius: 5px;">
+  </a>
   <a href="https://www.docker.com/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg" alt="Docker" height="50" style="margin: 10px; background-color: white; border-radius: 5px;">
   </a>
@@ -50,6 +53,15 @@ In my free time, I enjoy playing Terraria!
 
 ---
 
+<h2 align="center">Projects</h2>
+
+<p align="center">
+  - **Project Name**: Brief description of the project and technologies used.
+  - **Another Project**: Brief description and any notable achievements.
+</p>
+
+---
+
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
@@ -73,4 +85,12 @@ In my free time, I enjoy playing Terraria!
   <a href="https://github-profile-trophy.vercel.app/?username=taku072002T&theme=onedark">
     <img src="https://github-profile-trophy.vercel.app/?username=taku072002T&theme=onedark" alt="Trophies" />
   </a>
+</p>
+
+---
+
+<h2 align="center">Contact</h2>
+
+<p align="center">
+  Feel free to reach out via [LinkedIn](#) or [Email](mailto:your-email@example.com).
 </p>
