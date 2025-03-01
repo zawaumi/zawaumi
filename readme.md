@@ -10,7 +10,9 @@ I love playing Terraria!
 
 ![Terraria Image](images/terraria.png)
 
+<!--
 [![Rating](https://badgen.org/img/atcoder/hasitaka/rating/algorithm?style=plastic)](https://atcoder.jp/users/hasitaka?contestType=algo)
+-->
 
 <h2>Usings</h2>
 
