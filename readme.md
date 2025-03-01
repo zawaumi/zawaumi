@@ -91,7 +91,6 @@ In my free time, I enjoy playing Terraria!
 
 ---
 
-<h2 align="center" style="font-family: 'Poppins', sans-serif; color: #4A4A4A;">Extras</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=taku072002T&style=for-the-badge&color=brightgreen" alt="Visitor Count Badge"/>
