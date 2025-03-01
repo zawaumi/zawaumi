@@ -8,17 +8,38 @@ I'm interested in a web development, software development, and AI building!
 
 [![Rating](https://badgen.org/img/atcoder/hasitaka/rating/algorithm?style=plastic)](https://atcoder.jp/users/hasitaka?contestType=algo)
 
-# Usings
+<h2>Usings</h2>
 
-[![Dockerバッジ](https://img.shields.io/badge/-Docker-2496ED.svg?logo=docker&style=flat-square&logoColor=white)](https://www.docker.com/)
-[![HTMLバッジ](https://img.shields.io/badge/-HTML5-E34F26.svg?logo=html5&style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
-[![CSSバッジ](https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat-square&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScriptバッジ](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?logo=javascript&style=flat-square&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Djangoバッジ](https://img.shields.io/badge/-Django-092E20.svg?logo=django&style=flat-square&logoColor=white)](https://www.djangoproject.com/)
-[![DRFバッジ](https://img.shields.io/badge/-DRF-ff1709.svg?logo=django&style=flat-square&logoColor=white)](https://www.django-rest-framework.org/)
-[![Reactバッジ](https://img.shields.io/badge/-React-61DAFB.svg?logo=react&style=flat-square&logoColor=black)](https://reactjs.org/)
-[![ReactNativeバッジ](https://img.shields.io/badge/-ReactNative-61DAFB.svg?logo=react&style=flat-square&logoColor=black)](https://reactnative.dev/)
-[![Vueバッジ](https://img.shields.io/badge/-Vue.js-4FC08D.svg?logo=vue.js&style=flat-square&logoColor=white)](https://vuejs.org/)
+<a href="https://www.ruby-lang.org/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/ruby.svg" alt="Ruby" height="50" style="margin-right: 10px;">
+</a>
+<a href="https://www.docker.com/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg" alt="Docker" height="50" style="margin-right: 10px;">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" alt="HTML5" height="50" style="margin-right: 10px;">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" alt="CSS3" height="50" style="margin-right: 10px;">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" alt="JavaScript" height="50" style="margin-right: 10px;">
+</a>
+<a href="https://www.djangoproject.com/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/django.svg" alt="Django" height="50" style="margin-right: 10px;">
+</a>
+<a href="https://www.django-rest-framework.org/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/django.svg" alt="DRF" height="50" style="margin-right: 10px;">
+</a>
+<a href="https://reactjs.org/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" alt="React" height="50" style="margin-right: 10px;">
+</a>
+<a href="https://reactnative.dev/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" alt="React Native" height="50" style="margin-right: 10px;">
+</a>
+<a href="https://vuejs.org/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vue-dot-js.svg" alt="Vue.js" height="50" style="margin-right: 10px;">
+</a>
 
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taku072002T&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
 
