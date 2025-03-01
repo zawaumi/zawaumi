@@ -53,14 +53,6 @@ In my free time, I enjoy playing Terraria!
 
 ---
 
-<h2 align="center">Projects</h2>
-
-<p align="center">
-  - **Project Name**: Brief description of the project and technologies used.
-  - **Another Project**: Brief description and any notable achievements.
-</p>
-
----
 
 <h2 align="center">GitHub Stats</h2>
 
