@@ -22,9 +22,6 @@ My interests lie in web development, software engineering, and building AI syste
 <h2 align="center" style="font-family: 'Poppins', sans-serif; color: #4A4A4A;">Technologies I Use</h2>
 
 <p align="center">
-  <a href="https://www.ruby-lang.org/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/ruby.svg" alt="Ruby" height="50" style="margin: 10px; background-color: white; border-radius: 5px;"/>
-  </a>
   <a href="https://www.docker.com/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/docker.svg" alt="Docker" height="50" style="margin: 10px; background-color: white; border-radius: 5px;"/>
   </a>
