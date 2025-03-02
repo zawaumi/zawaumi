@@ -3,9 +3,12 @@
 <p align="center" style="font-family: 'Poppins', sans-serif; color: #4A4A4A;">
 I'm a second-year university student with a passion for full-stack development.  
 My interests lie in web development, software engineering, and building AI systems.  
-
-Terrarian Yeah!
 </p>
+
+<p align="center" style="font-family: 'Poppins', sans-serif; color: #4A4A4A; font-size: 2em;">
+  Terrarian Yeah!
+</p>
+
 
 <p align="center">
   <img src="images/terraria.png" alt="Terraria Image" style="border-radius: 10px;"/>
