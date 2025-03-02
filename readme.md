@@ -1,4 +1,4 @@
-## Hi there! 👋
+<h1 align="center" style="font-family: 'Poppins', sans-serif; color: #4A4A4A;"> Hi there! 👋</h1>
 
 <p align="center" style="font-family: 'Poppins', sans-serif; color: #4A4A4A;">
 I'm a second-year university student with a passion for full-stack development.  
