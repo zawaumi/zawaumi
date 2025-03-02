@@ -6,7 +6,7 @@ My interests lie in web development, software engineering, and building AI syste
 </p>
 
 
-# Terrarian Yeah!
+<h2 align="center" style="font-family: 'Poppins', sans-serif; color: #4A4A4A;">Terrarian Yeah!</h2>
 
 
 <p align="center">
