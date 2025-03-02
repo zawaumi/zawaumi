@@ -31,6 +31,7 @@ My interests lie in web development, software engineering, and building AI syste
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" alt="CSS3" height="50" style="margin: 10px; background-color: white; border-radius: 5px;"/>
   </a>
+<br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" alt="JavaScript" height="50" style="margin: 10px; background-color: white; border-radius: 5px;"/>
   </a>
@@ -40,6 +41,7 @@ My interests lie in web development, software engineering, and building AI syste
   <a href="https://www.django-rest-framework.org/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/django.svg" alt="DRF" height="50" style="margin: 10px; background-color: white; border-radius: 5px;"/>
   </a>
+  <br>
   <a href="https://reactjs.org/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" alt="React" height="50" style="margin: 10px; background-color: white; border-radius: 5px;"/>
   </a>
@@ -49,6 +51,7 @@ My interests lie in web development, software engineering, and building AI syste
   <a href="https://nextjs.org/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nextdotjs.svg" alt="Next.js" height="50" style="margin: 10px; background-color: white; border-radius: 5px;"/>
   </a>
+  <br>
   <a href="https://vuejs.org/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vuedotjs.svg" alt="Vue.js" height="50" style="margin: 10px; background-color: white; border-radius: 5px;"/>
   </a>
