@@ -19,7 +19,7 @@ My interests lie in web development, software engineering, and building AI syste
 
 ---
 
-<h2 align="center" style="font-family: 'Poppins', sans-serif; color: #4A4A4A;">Technologies I Used</h2>
+<h2 align="center" style="font-family: 'Poppins', sans-serif; color: #4A4A4A;">Technologies I Use</h2>
 
 <p align="center">
   <a href="https://www.docker.com/">
