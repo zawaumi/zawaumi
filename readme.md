@@ -5,7 +5,7 @@ I'm a second-year university student with a passion for full-stack development.
 My interests lie in web development, software engineering, and building AI systems.  
 </p>
 
-<p align="center" style="font-family: 'Poppins', sans-serif; color: #4A4A4A; font-size: 2em;">
+<p align="center" style="font-family: 'Poppins', sans-serif; color: #4A4A4A; font-size: 4em;">
   Terrarian Yeah!
 </p>
 
