@@ -46,6 +46,9 @@ My interests lie in web development, software engineering, and building AI syste
   <a href="https://reactnative.dev/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" alt="React Native" height="50" style="margin: 10px; background-color: white; border-radius: 5px;"/>
   </a>
+  <a href="https://nextjs.org/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nextdotjs.svg" alt="Next.js" height="50" style="margin: 10px; background-color: white; border-radius: 5px;"/>
+  </a>
   <a href="https://vuejs.org/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vuedotjs.svg" alt="Vue.js" height="50" style="margin: 10px; background-color: white; border-radius: 5px;"/>
   </a>
