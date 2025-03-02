@@ -65,6 +65,7 @@ My interests lie in web development, software engineering, and building AI syste
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/Visual_Studio_Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code Badge"/>
   </a>
+<br>
   <a href="https://cursor.so/">
     <img src="https://img.shields.io/badge/Cursor-black?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor Badge"/>
   </a>
