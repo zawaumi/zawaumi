@@ -93,8 +93,8 @@ My interests lie in web development, software engineering, and building AI syste
 <h2 align="center" style="font-family: 'Poppins', sans-serif; color: #4A4A4A;">Trophies</h2>
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=taku072002T&theme=onedark">
-    <img src="https://github-profile-trophy.vercel.app/?username=taku072002T&theme=onedark" alt="Trophies" />
+  <a href="https://github-profile-trophy.vercel.app/?username=zawaumi&theme=onedark">
+    <img src="https://github-profile-trophy.vercel.app/?username=zawaumi&theme=onedark" alt="Trophies" />
   </a>
 </p>
 
