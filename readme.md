@@ -76,8 +76,8 @@ My interests lie in web development, software engineering, and building AI syste
 <h2 align="center" style="font-family: 'Poppins', sans-serif; color: #4A4A4A;">GitHub Stats</h2>
 
 <p align="center">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taku072002T&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
-  <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=taku072002T&count_private=true&show_icons=true&theme=tokyonight" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zawaumi&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+  <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=zawaumi&count_private=true&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -85,7 +85,7 @@ My interests lie in web development, software engineering, and building AI syste
 <h2 align="center" style="font-family: 'Poppins', sans-serif; color: #4A4A4A;">Contributions</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=taku072002T&theme=2077" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zawaumi&theme=2077" />
 </p>
 
 ---
@@ -103,7 +103,7 @@ My interests lie in web development, software engineering, and building AI syste
 <h2 align="center" style="font-family: 'Poppins', sans-serif; color: #4A4A4A;">Extras</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=taku072002T&style=for-the-badge&color=brightgreen" alt="Visitor Count Badge"/>
+  <img src="https://komarev.com/ghpvc/?username=zawaumi&style=for-the-badge&color=brightgreen" alt="Visitor Count Badge"/>
 </p>
 
 <!-- Add this to the head of your HTML file -->
